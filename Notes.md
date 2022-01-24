@@ -16,3 +16,4 @@ if __name__ == "__main__":
 
 
 
+v4l2-ctl --list-devices -> will give you list of video devices connected including dummy
